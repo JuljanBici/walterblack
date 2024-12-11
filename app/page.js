@@ -17,7 +17,7 @@ export default function Home() {
       {/* Subtitle */}
       <p className="relative max-w-2xl mx-auto mt-12 text-lg text-[#F4D03F] md:text-2xl">
         The memecoin inspired by the greatest anti-hero in TV history. 
-        Just like Heisenberg, we're cooking up some serious gains.
+        Just like Heisenberg, we&apos;re cooking up some serious gains.
       </p>
       
       {/* Call-to-Action Buttons */}
@@ -28,7 +28,7 @@ export default function Home() {
 
       {/* Fun Tagline */}
       <p className="relative mt-6 italic font-semibold text-[#F4D03F]">
-        "We're in the blockchain business. And business is booming." - Not Walter White
+      &quot;We&apos;re in the blockchain business. And business is booming.&quot; - Not Walter White
       </p>
     </section>
 
@@ -75,15 +75,15 @@ export default function Home() {
 
       {/* Description */}
       <p className="relative max-w-3xl mx-auto mt-8 text-lg leading-relaxed text-center md:text-2xl">
-        Walter Black isn't just another memecoin; it's the one who knocks. 
+        Walter Black isn&apos;t just another memecoin; it&apos;s the one who knocks. 
         Cooked on the Solana blockchain by crypto chemists, this coin is destined to break bad on all charts. 
         With every transaction, Walter Black gets closer to becoming the *Heisenberg* of the meme economy. 💰
       </p>
 
       {/* Funny Details */}
       <p className="relative max-w-2xl mx-auto font-semibold mt-6 italic pb-20 text-center text-[#F4D03F] text-md md:text-lg">
-        From "breaking banks" to "blockchain domination," Walter Black is cooking up and gains. 
-        Join us as we make Solana say, "I am the danger!"
+        From &quot;breaking banks&quot; to &quot;blockchain domination,&quot; Walter Black is cooking up and gains. 
+        Join us as we make Solana say, &quot;I am the danger!&quot;
       </p>
     </section>
     <div className="flex items-center justify-between w-full px-10 text-black bg-yellow-500 py-7">
@@ -201,7 +201,7 @@ export default function Home() {
       <div className="relative z-10 flex flex-col items-center justify-center h-full px-4 text-center">
         {/* Pun Threat */}
         <h1 className="text-2xl font-extrabold text-green-600 sm:text-5xl md:text-6xl">
-          "Buy Walter Black... or tread lightly."
+        &quot;Buy Walter Black... or tread lightly.&quot;
         </h1>
 
         {/* Social Links */}
